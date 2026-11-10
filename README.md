@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0443-string-compression) |
 ## Quicksort
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0443-string-compression) |
 ## Sliding Window
 |  |
 | ------- |
