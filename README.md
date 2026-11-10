@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0242-valid-anagram) |
@@ -80,6 +81,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VaddiLathaDevi/leetcode-dsa-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
